@@ -17,7 +17,7 @@ Each individual farmer gets 10 free farms to register. To register more farms, u
 
 ## Usage
 
-1. **Download the App:** Download the Farm Management App from the Google Play Store or Apple App Store.
+1. **Download the App:** [Download from the linkl](https://drive.google.com/file/d/1HSkEhGX8LRw_5S3jiqFASL6Ra4YqIw48/view?usp=sharing)
 2. **Register:** Sign up for an account and register your farms. You will get 10 free farms upon registration.
 3. **Subscription:** To register more farms and access additional features, subscribe through in-app payment methods.
 4. **Explore Features:** Explore the app's features, including yield prediction, farm status monitoring, inventory management, to-do list, and interactive chatbot.
