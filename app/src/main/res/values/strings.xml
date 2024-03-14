@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Agricole</string>
+
+
+    <!--    Shubham-->
+    <string name="login_text">Login</string>
+    <string name="edit_text_username">Phone Number</string>
+    <string name="edit_text_password">Password</string>
+    <string name="button_sign_in">Sign in</string>
+    <string name="button_sign_up">Don`t have an account? Sign up!</string>
+    <string name="already_have_an_account_login">Already have an account? Login\n</string>
+    <string name="sign_up">Sign up</string>
+    <string name="edit_text_password_confirm">Confirm password</string>
+    <string name="button_sign_up_activity">Sign up</string>
+    <string name="password_error_no_password">Please enter password</string>
+    <string name="password_error_short_password">Password should contain more than 5 letters</string>
+    <string name="password_error_password_not_confirmed">Wrong password! Please type again</string>
+    <string name="username_error_no_username">Please enter username</string>
+    <string name="username_error_long_username">Username is too long</string>
+    <string name="login_error_incorrect_input">Username or login is incorrect. Try again or sign up!</string>
+
+
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">We are a team of 3 people working on  a solution of Farm management. Feel free to reach out to us</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">3rd Year UnderGraduate IIITS</string>
+    <string name="about_us">About Us</string>
+    <!--    Parth-->
+
+
+    <string name="motive2">Farming Made Easy</string>
+    <string name="from">From</string>
+    <string name="author">Goblins</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="task">Task</string>
+    <string name="farm">Farm</string>
+    <string name="profile">Profile</string>
+    <string name="currentlocation">Sri City, AP </string>
+    <string name="morning">Today is a partly sunny day!</string>
+    <string name="humidity">Humidity</string>
+    <string name="precipitation">Precipitation</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="checkai">Check our AI Recommendation \nfor your fields</string>
+    <string name="_0_01_in"><![CDATA[<0.01 in]]></string>
+    <string name="todo">TODO</string>
+    <string name="write_here">Type here</string>
+    <string name="welcome">Welcome To Agribot</string>
+    <string name="see_all">See all</string>
+    <string name="my_fields">My fields</string>
+    <string name="farm_name">Farm Name</string>
+    <string name="add_free">Add Upto 10 Farms for Free</string>
+    <string name="soil_moisture_status">Soil Moisture Status</string>
+    <string name="crop_status">Crop Status</string>
+    <string name="planting_date">Planting Date</string>
+    <string name="accumlated_gdd">Accumlated GDD</string>
+    <string name="erz">Effective Root Zone</string>
+    <string name="harvest">You can customize the harvest according to your plans</string>
+    <string name="setup">Setup</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="reset">Reset</string>
+    <string name="harvest_date">Expected Harvest Date</string>
+    <string name="stocked_crop">Stocked Crop</string>
+    <string name="crop_yield_prediction">Crop yield prediction</string>
+    <string name="today">Today</string>
+    <string name="crop_inventory">Crop Inventory</string>
+    <string name="expeted">This is Expected Harvest of the farm</string>
+</resources>

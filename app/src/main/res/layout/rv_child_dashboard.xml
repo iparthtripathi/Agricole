@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="@dimen/_40sdp"
+            android:layout_height="@dimen/_40sdp"
+            android:scaleType="fitXY"
+            android:layout_marginStart="@dimen/_5sdp"
+
+            android:src="@drawable/water_plant"
+            android:layout_toStartOf="@id/tv_todo_name"/>
+        <TextView
+            android:id="@+id/tv_todo_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/iv_menu"
+            android:fontFamily="@font/firs_nueu_medium"
+            android:text="test"
+            android:textSize="@dimen/_15sdp"
+            android:layout_toLeftOf="@+id/iv_menu"
+            android:padding="16dp"/>
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:id="@+id/iv_menu"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/ic_vertical_dot"
+            android:padding="8dp"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>

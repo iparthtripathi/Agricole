@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Agricole</string>
+
+
+    <!--    Shubham-->
+    <string name="login_text">ప్రవేశించండి</string>
+    <string name="edit_text_username">ఫోను నంబరు</string>
+    <string name="edit_text_password">పాస్వర్డ్</string>
+    <string name="button_sign_in">సైన్ ఇన్ చేయండి</string>
+    <string name="button_sign_up">ఖాతా లేదా? చేరడం!</string>
+    <string name="already_have_an_account_login">ఖాతా కలిగి ఉన్నారా? ప్రవేశించండి\n</string>
+    <string name="sign_up">చేరడం</string>
+    <string name="edit_text_password_confirm">పాస్వర్డ్ను నిర్ధారించండి</string>
+    <string name="button_sign_up_activity">చేరడం</string>
+    <string name="password_error_no_password">దయచేసి పాస్‌వర్డ్‌ని నమోదు చేయండి</string>
+    <string name="password_error_short_password">పాస్‌వర్డ్‌లో 5 కంటే ఎక్కువ అక్షరాలు ఉండాలి</string>
+    <string name="password_error_password_not_confirmed">సరియినది కాని రహస్య పదము! దయచేసి మళ్లీ టైప్ చేయండి</string>
+    <string name="username_error_no_username">దయచేసి వినియోగదారు పేరును నమోదు చేయండి</string>
+    <string name="username_error_long_username">వినియోగదారు పేరు చాలా పొడవుగా ఉంది</string>
+    <string name="login_error_incorrect_input">వినియోగదారు పేరు లేదా లాగిన్ తప్పు. మళ్లీ ప్రయత్నించండి లేదా సైన్ అప్ చేయండి!</string>
+
+
+    <string name="job_success">ఉద్యోగ విజయం</string>
+    <string name="ui_ux_designer">UI/UX డిజైనర్</string>
+    <string name="my_desc">మేము 3 మంది వ్యక్తుల బృందం వ్యవసాయ నిర్వహణ పరిష్కారంపై పని చేస్తున్నాము. మమ్మల్ని చేరుకోవడానికి సంకోచించకండి</string>
+    <string name="about_me">నా గురించి</string>
+    <string name="contact">సంప్రదించండి</string>
+    <string name="skills">నైపుణ్యాలు</string>
+    <string name="ratings">స్టార్ రేటింగ్‌లు</string>
+    <string name="samplereview">3వ సంవత్సరం అండర్ గ్రాడ్యుయేట్ IIITS</string>
+    <string name="about_us">మా గురించి</string>
+    <!--    Parth-->
+
+
+    <string name="motive2">వ్యవసాయం సులభం</string>
+    <string name="from">నుండి</string>
+    <string name="author">Goblins</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">హోమ్</string>
+    <string name="task">టాస్క్</string>
+    <string name="farm">పొలం</string>
+    <string name="profile">ప్రొఫైల్</string>
+    <string name="currentlocation">Sri City, AP </string>
+    <string name="morning">ఈరోజు పాక్షికంగా ఎండగా ఉండే రోజు!</string>
+    <string name="humidity">తేమ</string>
+    <string name="precipitation">అవపాతం</string>
+    <string name="wind_speed">గాలి వేగం</string>
+    <string name="checkai">మీ ఫీల్డ్‌ల కోసం మా AI \nసిఫార్సును తనిఖీ చేయండి</string>
+    <string name="_0_01_in"><![CDATA[<0.01 in]]></string>
+    <string name="todo">TODO</string>
+    <string name="write_here">ఇక్కడ టైపు చేయండి</string>
+    <string name="welcome">అగ్రిబోట్‌కు స్వాగతం</string>
+    <string name="see_all">అన్నింటిని చూడు</string>
+    <string name="my_fields">నా పొలాలు</string>
+    <string name="farm_name">పొలం పేరు</string>
+    <string name="add_free">10 పొలాల వరకు ఉచితంగా జోడించండి</string>
+    <string name="soil_moisture_status">నేల తేమ స్థితి</string>
+    <string name="crop_status">పంట స్థితి</string>
+    <string name="planting_date">నాటడం తేదీ</string>
+    <string name="accumlated_gdd">సంచిత GDD</string>
+    <string name="erz">ఎఫెక్టివ్ రూట్ జోన్</string>
+    <string name="setup">సెటప్</string>
+    <string name="harvest">మీరు మీ ప్రణాళికల ప్రకారం పంటను అనుకూలీకరించవచ్చు</string>
+    <string name="delete">తొలగించు</string>
+    <string name="mark_as_completed">పూర్తయినట్లు గుర్తు పెట్టండి</string>
+    <string name="reset">రీసెట్ చేయండి</string>
+    <string name="edit">సవరించు</string>
+    <string name="harvest_date">హార్వెస్ట్ తేదీ</string>
+    <string name="stocked_crop">నిల్వ చేసిన పంట</string>
+    <string name="crop_yield_prediction">పంట దిగుబడి అంచనా</string>
+    <string name="today">ఈరోజు</string>
+    <string name="crop_inventory">పంట జాబితా</string>
+    <string name="expeted">ఇది పొలం ఆశించిన పంట</string>
+
+</resources>

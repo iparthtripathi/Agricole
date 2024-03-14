@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Agricole</string>
+
+
+    <!--    Shubham-->
+    <string name="login_text">लॉग इन करें</string>
+    <string name="edit_text_username">फ़ोन नंबर</string>
+    <string name="edit_text_password">पासवर्ड</string>
+    <string name="button_sign_in">दाखिल करना</string>
+    <string name="button_sign_up">क्या आपके पास खाता नहीं है? साइन अप करें!</string>
+    <string name="already_have_an_account_login">क्या आपके पास पहले से एक खाता मौजूद है? लॉग इन करें</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="edit_text_password_confirm">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="button_sign_up_activity">साइन अप करें</string>
+    <string name="password_error_no_password">कृपया पासवर्ड दर्ज करें</string>
+    <string name="password_error_short_password">पासवर्ड में 5 से अधिक अक्षर होने चाहिए</string>
+    <string name="password_error_password_not_confirmed">गलत पासवर्ड! कृपया दोबारा टाइप करें</string>
+    <string name="username_error_no_username">कृपया उपयोक्तानाम दर्ज करें</string>
+    <string name="username_error_long_username">उपयोक्तानाम बहुत लंबा है</string>
+    <string name="login_error_incorrect_input">उपयोगकर्ता नाम या लॉगिन ग़लत है. पुनः प्रयास करें या साइन अप करें!</string>
+
+
+    <string name="job_success">नौकरी में सफलता</string>
+    <string name="ui_ux_designer">यूआई/यूएक्स डिजाइनर</string>
+    <string name="my_desc">हम 3 लोगों की एक टीम हैं जो फार्म प्रबंधन के समाधान पर काम कर रहे हैं। बेझिझक हमसे संपर्क करें</string>
+    <string name="about_me">मेरे बारे में</string>
+    <string name="contact">संपर्क</string>
+    <string name="skills">कौशल</string>
+    <string name="ratings">स्टार रेटिंग</string>
+    <string name="samplereview">तृतीय वर्ष स्नातक IIITS</string>
+
+    <string name="about_us">हमारे बारे में</string>
+    <!--    Parth-->
+
+
+    <string name="motive2">खेती करना हुआ आसान</string>
+    <string name="from">से</string>
+    <string name="author">Goblins</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">घर</string>
+    <string name="task">काम</string>
+    <string name="farm">खेत</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="currentlocation">Sri City, AP </string>
+    <string name="morning">आज आंशिक धूप वाला दिन है!</string>
+    <string name="humidity">नमी</string>
+    <string name="precipitation">वर्षण</string>
+    <string name="wind_speed">हवा की गति</string>
+    <string name="checkai">अपने क्षेत्रों के लिए हमारी AI \n अनुशंसा देखें</string>
+    <string name="_0_01_in"><![CDATA[<0.01 in]]></string>
+    <string name="todo">TODO</string>
+    <string name="write_here">यहाँ टाइप करें</string>
+    <string name="welcome">एग्रीबॉट में आपका स्वागत है</string>
+    <string name="see_all">सभी देखें</string>
+    <string name="my_fields">मेरे खेत</string>
+    <string name="farm_name">फार्म का नाम</string>
+    <string name="add_free">10 फ़ार्म तक निःशुल्क जोड़ें</string>
+    <string name="soil_moisture_status">मिट्टी की नमी की स्थिति</string>
+    <string name="crop_status">फसल की स्थिति</string>
+    <string name="planting_date">रोपण तिथि</string>
+    <string name="accumlated_gdd">संचित जीडीडी</string>
+    <string name="erz">प्रभावी जड़ क्षेत्र</string>
+    <string name="setup">स्थापित करना</string>
+    <string name="harvest">आप अपनी योजना के अनुसार फसल को अनुकूलित कर सकते हैं</string>
+    <string name="delete">मिटाना</string>
+    <string name="mark_as_completed">पूर्ण के रूप में चिह्नित करें</string>
+    <string name="reset">रीसेट</string>
+    <string name="edit">संपादन करना</string>
+    <string name="harvest_date">फसल की तारीख</string>
+    <string name="stocked_crop">भंडारित फसल</string>
+    <string name="crop_yield_prediction">फसल उपज की भविष्यवाणी</string>
+    <string name="today">आज</string>
+    <string name="crop_inventory">फसल सूची</string>
+    <string name="expeted">यह खेत की अपेक्षित फसल है</string>
+
+</resources>
